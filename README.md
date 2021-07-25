@@ -1,5 +1,5 @@
 # katerpillar
-some things on my _katerpillar_ board design
+some things that tickle my brain- _katerpillar_ board design
 
 The initial design points are ready.
 PCB commisioned.
