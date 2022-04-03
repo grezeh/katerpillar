@@ -10,7 +10,7 @@ done:
 + proto pcbs done and flashed, fixes discussed/applied
 
 still to do:
-correct and clean-up qmk code
+correct and clean-up qmk code; 
 vial port; 
 (generic qwerty map or an easier alternative to _mnemonik_ layout, if anyone other wants to try?); 
 add _katerpillar_ novelty to possible upcoming keyset
