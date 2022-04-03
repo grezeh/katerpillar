@@ -1,5 +1,5 @@
 # katerpillar
-some things that tickle the brain- _katerpillar_ board design
+some things that tickle the brain- _katerpillar_ board design,
 one of the Mnemonik series keyboards.
 
 done:
@@ -11,7 +11,7 @@ done:
 
 still to do:
 correct and clean-up qmk code
-vial port
-(generic qwerty map or an easier alternative to _mnemonik_ layout, if anyone other wants to try?)
+vial port; 
+(generic qwerty map or an easier alternative to _mnemonik_ layout, if anyone other wants to try?); 
 add _katerpillar_ novelty to possible upcoming keyset
 ![katerpillar_pcbs](https://user-images.githubusercontent.com/61553650/161435406-4e7b79f3-1497-4b59-963d-830b3c44509a.png)
