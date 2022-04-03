@@ -2,6 +2,8 @@
 some things that tickle the brain- _katerpillar_ board design,
 one of the Mnemonik series keyboards.
 
+PCB is a retrofit drop-in for acrylic or aluminium  _phoenix_ 13u cases. (just different plates/mounting points)
+
 done:
 + The initial design points are ready.
 + PCB commisioned/done.
