@@ -1,4 +1,7 @@
 # katerpillar
+
+![katerpillar](https://github.com/grezeh/katerpillar/blob/main/katerpillar%20assault%202.jpg)
+
 some things that tickle the brain- _katerpillar_ board design,
 one of the Mnemonik series keyboards.
 
